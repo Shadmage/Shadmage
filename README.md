@@ -1,4 +1,4 @@
-### ✨ Welcome to my Github Page ✨
+### ✨ Welcome to my Github Profile ✨
 - 🔭 Owner/Plugin Dev: Dirty Dog Gaming (Minecraft Network)
 
 <div align="center">
