@@ -3,7 +3,7 @@
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=Shadmage&color=green&style=for-the-badge" alt="views" />
   </a>
-  <a href="https://discord.gg/Q9FHh8Y324">
+  <a href="https://discord.gg/386eAZ7a2E">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=fff" />
   </a>
 </p>
