@@ -1,3 +1,4 @@
+# ✨ Welcome to the Shadows Lair
 <p align="left">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=Shadmage&color=green&style=for-the-badge" alt="views" />
@@ -6,8 +7,6 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=fff" />
   </a>
 </p>
-### ✨ Welcome to the Shadows Lair
-
 
 <h3 align="left">What I enjoy :</h2>
 <table>
@@ -57,8 +56,8 @@
 </table>
 
 <div class="right" style="display:flex; flex-direction: row;">
-
 <img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.classic.svg">
 
-[![Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)
+[![Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)](https://github.com/anuraghazra/github-readme-stats)
