@@ -47,5 +47,18 @@
       </a>
       <br>Ms SQL Server
     </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>JetBrains IntelliJ
+    </td>
   </tr>
 </table>
+
+<div class="right" style="display:flex; flex-direction: row;">
+
+<img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.classic.svg">
+
+<img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.pins.svg">
+</div>
