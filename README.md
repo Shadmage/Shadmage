@@ -9,7 +9,7 @@
 ### ✨ Welcome to the Shadows Lair
 
 
-<h3 align="left">Stuffs I Do :</h2>
+<h3 align="left">What I enjoy :</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -40,6 +40,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>VisualStudio
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Ms SQL Server
     </td>
   </tr>
 </table>
