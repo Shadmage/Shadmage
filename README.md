@@ -60,5 +60,5 @@
 
 <img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.classic.svg">
 
-<img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.pins.svg">
+[![Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)](https://github.com/anuraghazra/github-readme-stats)
 </div>
