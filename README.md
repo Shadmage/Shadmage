@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=fff" />
   </a>
 </p>
-
+<p>I started coding out of curiosity... I continue coding because I found a love of the endless possibilities</p>
 <h3 align="left">What I enjoy :</h2>
 <table>
   <tr>
