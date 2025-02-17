@@ -59,5 +59,4 @@
 <img src="https://github.com/Shadmage/Shadmage/raw/main/metrics.classic.svg">
 
 </div>
-[Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)
-[![Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)](https://github.com/anuraghazra/github-readme-stats)
+[![Shadmage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadmage)]()
